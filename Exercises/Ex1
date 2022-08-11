@@ -1,0 +1,6 @@
+Use 9M_Sudoku (b0_sol.csv) dataset for this exercise.
+
+Load the dataset in your program and randomly select 9 different sudokus and display them using correct 9*9 sudoku template using dataframe.
+
+Load one random sudoku in a dataframe with shape of (1, 81) and set the correct headers.
+For example the first one shoud be r1c1, second one is r1c2 and 10th one is r2c1
