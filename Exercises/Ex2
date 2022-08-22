@@ -1,0 +1,5 @@
+1. Write a function which takes prediction and real data, then return error
+
+2. Write a function which create E matrix (goto S5)
+
+3. Write a code to find outliers using elbow method.
