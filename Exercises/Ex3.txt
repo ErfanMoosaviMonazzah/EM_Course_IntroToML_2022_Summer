@@ -1,0 +1,3 @@
+Write a function to do k-fold cross validation
+
+Extend your function to do leave one out cross validation
