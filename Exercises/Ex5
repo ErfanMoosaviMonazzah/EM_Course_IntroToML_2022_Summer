@@ -1,3 +1,5 @@
 Plot kmeans clustered 2D data, in a way that each point would have the same color as its centeroid.
 
 Save plots for different n_clusters (from 2 to 10)
+
+Rewrite kmeans predict function.
