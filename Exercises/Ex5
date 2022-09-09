@@ -1,0 +1,1 @@
+Plot kmeans clustered 2D data, in a way that each point would have the same color as its centeroid.
